@@ -33,7 +33,7 @@ public class Task2 {
             System.out.println("Very Good, you have got A grade");
         } else if (percentage >= 70) {
             System.out.println("Good, you have got B grade");
-        } else if (percentage >= 60) {
+        } else if (percentage >= 35) {
             System.out.println("Satisfactory, you have got C grade");
         } else {
             System.out.println("Fail");
